@@ -1,2 +1,2 @@
 # mant-alefon
-Generador de contraseñas aleatorios
+Generador de contraseñas aleatorias
